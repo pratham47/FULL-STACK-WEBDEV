@@ -2,16 +2,16 @@
 
 Tech Used:
 
-MongoDb- DATABASE;
+MongoDb - DATABASE;
 Mongoose - DATABASE LIBRARY;
 Node js - SERVER SIDE;
 Express js - SERVER SIDE(FOR HANDLING ROUTES);
 React js - FRONT-END LIBRARY;
 Axios - API (for connecting front-end and back-end);
-Bootstrap - CSS FRAMWORK/Liberary;
-body-parser-middleware;
-cors-middleware;
-nodemon-utility for server;
+Bootstrap - CSS FRAMWORK/Library;
+body-parser - middleware;
+cors - middleware;
+nodemon - utility for server;
 
 
 IT IS A SMALL BASIC FUN PROJECT USING MERN STACK IN WEB DEVELOPMENT. 
