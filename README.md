@@ -1,4 +1,4 @@
-# FULL-STACK-WEBDEV (MERN STACK)
+# Todo List Web APP
 
 Tech Used:
 
